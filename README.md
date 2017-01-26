@@ -6,6 +6,18 @@ A project made in class-12 (CBSE-Informatics and Practices).
 * Sleek interface
 * Record of Patients,Doctors and additional facilities such as rooms and billing.
 
+## Screenshots
+### Welcome screen
+![welcome screen](https://github.com/agarwal-akash/Hospital-Management/blob/master/screenshots/welcome_screen.jpg)
+### Patient registration
+![patient_regis](https://github.com/agarwal-akash/Hospital-Management/blob/master/screenshots/patient.jpg)
+### Patient admit
+![patient_admit](https://github.com/agarwal-akash/Hospital-Management/blob/master/screenshots/patient_admit.jpg)
+### Doctor registration
+![doctor_regis](https://github.com/agarwal-akash/Hospital-Management/blob/master/screenshots/doctor.jpg)
+### Add room
+![add_room](https://github.com/agarwal-akash/Hospital-Management/blob/master/screenshots/room_add.jpg)
+
 ## Getting started :computer:
 * To get the database first create a database in MySql
 and then put the [akash.sql](https://github.com/agarwal-akash/Hospital-Management/blob/master/akash.sql) dump file in your MyMySQL Server5.1/bin directory.
